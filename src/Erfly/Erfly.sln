@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Erfly.App", "Erfly.App\Erfly.App.csproj", "{951444F0-792D-43BD-9251-9C40432B4A70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Erfly.Core", "Erfly.Core\Erfly.Core.csproj", "{A6F11C33-6AD0-4E77-BAF8-796D57471053}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{951444F0-792D-43BD-9251-9C40432B4A70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{951444F0-792D-43BD-9251-9C40432B4A70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{951444F0-792D-43BD-9251-9C40432B4A70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{951444F0-792D-43BD-9251-9C40432B4A70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6F11C33-6AD0-4E77-BAF8-796D57471053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6F11C33-6AD0-4E77-BAF8-796D57471053}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6F11C33-6AD0-4E77-BAF8-796D57471053}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6F11C33-6AD0-4E77-BAF8-796D57471053}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {842CAED3-CB20-48CE-A13A-10922AAA247E}
+	EndGlobalSection
+EndGlobal
